@@ -1,0 +1,39 @@
+# Core data processing
+pandas>=1.5.3
+numpy>=1.24.3
+
+# Financial data APIs
+yfinance>=0.2.18
+requests>=2.31.0
+
+# Database
+sqlalchemy>=2.0.15
+
+# Configuration and environment
+python-dotenv>=1.0.0
+
+# Cloud services (AWS)
+boto3>=1.26.137
+
+# Natural language processing for sentiment
+textblob>=0.17.1
+
+# Visualization
+matplotlib>=3.7.1
+
+# Testing framework
+pytest>=7.3.1
+pytest-mock>=3.10.0
+pytest-asyncio>=0.21.0
+hypothesis>=6.75.1
+responses>=0.23.0
+freezegun>=1.2.2
+factory-boy>=3.2.1
+
+# Broker API integration (Alpaca)
+alpaca-trade-api>=3.0.0
+
+# Additional utilities
+schedule>=1.2.0
+python-telegram-bot>=20.0
+smtplib-ssl>=1.0.0
